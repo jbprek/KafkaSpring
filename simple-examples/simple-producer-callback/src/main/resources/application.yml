@@ -1,0 +1,4 @@
+app:
+  kafka:
+    topic: demo_java
+    broker-list: localhost:9092
